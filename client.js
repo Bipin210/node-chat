@@ -1,4 +1,4 @@
-var CONFIG = { debug: false
+####var CONFIG = { debug: false
              , nick: "#"   // set in onConnect
              , id: null    // set in onConnect
              , last_message_time: 1
